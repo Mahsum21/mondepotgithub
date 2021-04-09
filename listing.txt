@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle Local Disk
+ Le num‚ro de s‚rie du volume est 98C7-12B7
+
+ R‚pertoire de C:\Users\mahsu\mesdepots\mondepotgithub
+
+09-04-21  15:19    <DIR>          .
+09-04-21  15:19    <DIR>          ..
+09-04-21  15:19                 0 listing.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  59.979.476.992 octets libres
